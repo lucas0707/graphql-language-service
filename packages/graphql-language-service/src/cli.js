@@ -89,7 +89,7 @@ const {argv} = yargs
   })
   .option('s', {
     alias: 'schemaPath',
-    describe: 'a path to schema DSL file\n',
+    describe: 'A path to schema DSL file.\n',
     type: 'string',
   });
 

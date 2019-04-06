@@ -77,7 +77,7 @@ Options:
                     directory, or the current working directory, until a
                     .graphqlrc is found or the root directory is found.
                                                                         [string]
-  -s, --schemaPath  a path to schema DSL file
+  -s, --schemaPath  A path to schema DSL file.
                                                                         [string]
 
 At least one command is required.
